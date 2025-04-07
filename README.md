@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -12,7 +11,6 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -20,7 +18,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+# Intro to markdown
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
